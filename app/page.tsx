@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 
 export default function Home() {
-  const whatsappNumber = "595XXXXXXXXX";
+  const whatsappNumber = "595975430489";
 
   const [form, setForm] = useState({
     nombre: "",
